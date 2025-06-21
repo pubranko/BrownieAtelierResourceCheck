@@ -1,0 +1,2 @@
+# BrownieAtelierResourceCheck
+Azure上のリソースのチェック専用サブモジュール
